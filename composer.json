@@ -1,5 +1,5 @@
 {
-    "name": "dkd/php-cmis",
+    "name": "horvathi/php-cmis-client",
     "type": "library",
     "description": "PHP CMIS client library based on CMIS 1.1",
     "keywords": ["cmis"],
